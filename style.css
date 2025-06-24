@@ -1,7 +1,21 @@
 body{
     background-color: black;
     color: white;
-    font-family: ;font-style: ;
+    font-family: sans-serif;
+    margin:0px;
+    }
 
 
 
+h1{
+    font-size:
+}
+p{
+    font-size: ;
+}
+header{
+    border-bottom: solid 2px rgb (orange);
+    padding:20px;
+    font-size: 30px;
+
+}
